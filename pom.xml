@@ -10,9 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>interview-spring</module>
-        <module>interview-springmvc</module>
         <module>interview-java</module>
-        <module>interview-springmvc</module>
         <module>interview-springmvc</module>
     </modules>
 
